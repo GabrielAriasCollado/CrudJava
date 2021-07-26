@@ -1,0 +1,9 @@
+//Descripción de la BD
+Mi base de datos se llama bd_pooii.
+Cuenta con una tabla de nombre empleado que está formada por 5 columnas que son:
+
+- id: Entero autoincrementable de máximo 11 dígitos
+- nombre: Texto de 30 caracteres
+- edad: Entero de 3 dígitos
+- profesion: Texto de 30 caracteres
+- telefono: Entero de 10 dígitos
